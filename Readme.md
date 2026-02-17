@@ -1,9 +1,3 @@
-````cpp
-#include<bits/stdc++.h>
-using namespace std;
-int main(){
-    
-    return 0;
-}
-````
+ZEC's图床
 
+CDNRoot:[https://fastly.jsdelivr.net/gh/ZEC-dev/imgbed/](https://fastly.jsdelivr.net/gh/ZEC-dev/imgbed/Readme.md)
